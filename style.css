@@ -1,0 +1,22 @@
+body{
+    background-color: lightgoldenrodyellow;
+    padding:20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1{
+   color: white; 
+   text-align:center;
+   border:2px brown solid;
+   padding:15px;
+   background-color: maroon;
+}
+
+ul,ol,p{
+    color:brown;
+}
+
+img{
+    display: block;
+    margin:auto;
+}
